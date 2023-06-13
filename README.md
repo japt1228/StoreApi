@@ -1,6 +1,6 @@
 # StoreApi
 
-## Server [Link text Here](http://www.jpstoreapi.somee.com/api/Categories)
+## Server [http://www.jpstoreapi.somee.com](http://www.jpstoreapi.somee.com/api/Categories)
 
 ### Get Routes:
 
